@@ -11,7 +11,7 @@ While the architecture is well-defined, **this codebase is currently under devel
 
 Below is a high-level diagram of the backend architecture:  
 
-![ConnectED Architecture](<add-your-image-file-path-or-hosted-url>)  
+![ConnectED Architecture](roma2023/connected-backend/asset/architecture.png)
 
 ### **Key Components**  
 1. **Frontend Service**: Provides teachers and NGOs with tools to upload content, monitor broadcasts, and schedule lessons.  
