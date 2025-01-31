@@ -1,0 +1,7 @@
+{
+    "{\"outputType\": \"audio\", \"resources\": [{\"content\": \"https://www.brookings.edu/articles/how-will-ai-affect-productivity/\", \"type\": \"website\"}, {\"content\": \"74% of businesses expect AI to increase productivity\", \"type\": \"text\"}], \"text\": \"Explain how AI will affect productivity\"}": {
+        "audio_url": "https://autocontentapi.blob.core.windows.net/audios/25164035-7eb2-4d16-bd4a-a1998a36f3c2_20250130202402.wav",
+        "audio_title": "AI and Productivity",
+        "audio_path": "../podcasts/AI and Productivity.wav"
+    }
+}

@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>Library Genesis: Miner's Hut - Index page</title>
+
+	<link rel="alternate" type="application/atom+xml" title="Feed - Library Genesis: Miner's Hut" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a">	<link rel="alternate" type="application/atom+xml" title="Feed - News" href="/app.php/feed/news?sid=92fbcc37e42c0c99bbb60a230520658a">	<link rel="alternate" type="application/atom+xml" title="Feed - All forums" href="/app.php/feed/forums?sid=92fbcc37e42c0c99bbb60a230520658a">	<link rel="alternate" type="application/atom+xml" title="Feed - New Topics" href="/app.php/feed/topics?sid=92fbcc37e42c0c99bbb60a230520658a">	<link rel="alternate" type="application/atom+xml" title="Feed - Active Topics" href="/app.php/feed/topics_active?sid=92fbcc37e42c0c99bbb60a230520658a">			
+
+<!--
+	phpBB style name: prosilver
+	Based on style:   prosilver (this is the default phpBB3 style)
+	Original author:  Tom Beddard ( http://www.subBlue.com/ )
+	Modified by:
+-->
+
+<link href="./assets/css/font-awesome.min.css?assets_version=6" rel="stylesheet">
+<link href="./styles/prosilver/theme/stylesheet.css?assets_version=6" rel="stylesheet">
+<link href="./styles/prosilver/theme/en/stylesheet.css?assets_version=6" rel="stylesheet">
+
+
+
+
+<!--[if lte IE 9]>
+	<link href="./styles/prosilver/theme/tweaks.css?assets_version=6" rel="stylesheet">
+<![endif]-->
+
+
+
+
+
+</head>
+<body id="phpbb" class="nojs notouch section-index ltr ">
+
+
+<div id="wrap" class="wrap">
+	<a id="top" class="top-anchor" accesskey="t"></a>
+	<div id="page-header">
+		<div class="headerbar" role="banner">
+					<div class="inner">
+
+			<div id="site-description" class="site-description">
+				<a id="logo" class="logo" href="./index.php?sid=92fbcc37e42c0c99bbb60a230520658a" title="Board index"><span class="site_logo"></span></a>
+				<h1>Library Genesis: Miner's Hut</h1>
+				<p>You need to login to gain access to all forum sections.</p>
+				<p class="skiplink"><a href="#start_here">Skip to content</a></p>
+			</div>
+
+									
+			</div>
+					</div>
+				<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-main" class="nav-main linklist" role="menubar">
+
+		<li id="quick-links" class="quick-links dropdown-container responsive-menu hidden" data-skip-responsive="true">
+			<a href="#" class="dropdown-trigger">
+				<i class="icon fa-bars fa-fw" aria-hidden="true"></i><span>Quick links</span>
+			</a>
+			<div class="dropdown">
+				<div class="pointer"><div class="pointer-inner"></div></div>
+				<ul class="dropdown-contents" role="menu">
+					
+					
+										<li class="separator"></li>
+
+									</ul>
+			</div>
+		</li>
+
+				<li data-skip-responsive="true">
+			<a href="/app.php/help/faq?sid=92fbcc37e42c0c99bbb60a230520658a" rel="help" title="Frequently Asked Questions" role="menuitem">
+				<i class="icon fa-question-circle fa-fw" aria-hidden="true"></i><span>FAQ</span>
+			</a>
+		</li>
+						
+			<li class="rightside"  data-skip-responsive="true">
+			<a href="./ucp.php?mode=login&amp;sid=92fbcc37e42c0c99bbb60a230520658a" title="Login" accesskey="x" role="menuitem">
+				<i class="icon fa-power-off fa-fw" aria-hidden="true"></i><span>Login</span>
+			</a>
+		</li>
+					<li class="rightside" data-skip-responsive="true">
+				<a href="./ucp.php?mode=register&amp;sid=92fbcc37e42c0c99bbb60a230520658a" role="menuitem">
+					<i class="icon fa-pencil-square-o  fa-fw" aria-hidden="true"></i><span>Register</span>
+				</a>
+			</li>
+						</ul>
+
+	<ul id="nav-breadcrumbs" class="nav-breadcrumbs linklist navlinks" role="menubar">
+				
+		
+		<li class="breadcrumbs" itemscope itemtype="https://schema.org/BreadcrumbList">
+
+			
+							<span class="crumb" itemtype="https://schema.org/ListItem" itemprop="itemListElement" itemscope><a itemprop="item" href="./index.php?sid=92fbcc37e42c0c99bbb60a230520658a" accesskey="h" data-navbar-reference="index"><i class="icon fa-home fa-fw"></i><span itemprop="name">Board index</span></a><meta itemprop="position" content="1" /></span>
+
+			
+					</li>
+
+		
+			</ul>
+
+	</div>
+</div>
+	</div>
+
+	
+	<a id="start_here" class="anchor"></a>
+	<div id="page-body" class="page-body" role="main">
+		
+		
+<p class="right responsive-center time">It is currently 21 Jan 2025, 22:35</p>
+
+
+
+	
+				<div class="forabg">
+			<div class="inner">
+			<ul class="topiclist">
+				<li class="header">
+										<dl class="row-item">
+						<dt><div class="list-inner"><a href="./viewforum.php?f=19&amp;sid=92fbcc37e42c0c99bbb60a230520658a">Library Genesis Forum</a></div></dt>
+						<dd class="topics">Topics</dd>
+						<dd class="posts">Posts</dd>
+						<dd class="lastpost"><span>Last post</span></dd>
+					</dl>
+									</li>
+			</ul>
+			<ul class="topiclist forums">
+		
+	
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - News" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=8">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - News</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=8&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">News</a>
+																		
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>78</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">78 <dfn>Topics</dfn></dd>
+					<dd class="posts">3662 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																	by <a href="./memberlist.php?mode=viewprofile&amp;u=448645&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="username">lapka</a>																	<a href="./viewtopic.php?f=8&amp;p=231609&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p231609" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2025-01-10T17:14:49+00:00">10 Jan 2025, 17:14</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Science and education" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=16">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Science and education</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=16&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">Science and education</a>
+																		
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>67</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">67 <dfn>Topics</dfn></dd>
+					<dd class="posts">3413 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																	by <a href="./memberlist.php?mode=viewprofile&amp;u=398236&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="username">MidtownNYC</a>																	<a href="./viewtopic.php?f=16&amp;p=228229&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p228229" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2024-10-02T20:51:25+00:00">02 Oct 2024, 20:51</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Library things" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=17">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Library things</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=17&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">Library things</a>
+						<br />Libraries and all around. A section for various LG-related talks.												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>399</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">399 <dfn>Topics</dfn></dd>
+					<dd class="posts">92271 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																	by <a href="./memberlist.php?mode=viewprofile&amp;u=462942&amp;sid=92fbcc37e42c0c99bbb60a230520658a" style="color: #FF6600;" class="username-coloured">libgen50</a>																	<a href="./viewtopic.php?f=17&amp;p=231914&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p231914" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2025-01-21T19:36:14+00:00">21 Jan 2025, 19:36</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - LG-related software and online services" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=34">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - LG-related software and online services</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=34&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">LG-related software and online services</a>
+																		
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>36</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">36 <dfn>Topics</dfn></dd>
+					<dd class="posts">4275 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																	by <a href="./memberlist.php?mode=viewprofile&amp;u=48929&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="username">parmenides</a>																	<a href="./viewtopic.php?f=34&amp;p=231795&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p231795" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2025-01-17T10:17:59+00:00">17 Jan 2025, 10:17</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Content hoarding, book scanning, file processing" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=10">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Content hoarding, book scanning, file processing</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=10&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">Content hoarding, book scanning, file processing</a>
+																		
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>266</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">266 <dfn>Topics</dfn></dd>
+					<dd class="posts">4851 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																	by <a href="./memberlist.php?mode=viewprofile&amp;u=422736&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="username">Lobo2023</a>																	<a href="./viewtopic.php?f=10&amp;p=231869&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p231869" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2025-01-21T03:52:18+00:00">21 Jan 2025, 03:52</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Book requests" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=36">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Book requests</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=36&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">Book requests</a>
+						<br />Here you may post your book requests. Read the rules carefully before posting!												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>9545</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">9545 <dfn>Topics</dfn></dd>
+					<dd class="posts">27305 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																	by <a href="./memberlist.php?mode=viewprofile&amp;u=82463&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="username">bread</a>																	<a href="./viewtopic.php?f=36&amp;p=231916&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p231916" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2025-01-21T20:00:49+00:00">21 Jan 2025, 20:00</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - General IT talks: software, hardware, networking, file sharing" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=33">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - General IT talks: software, hardware, networking, file sharing</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=33&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">General IT talks: software, hardware, networking, file sharing</a>
+																		
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>40</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">40 <dfn>Topics</dfn></dd>
+					<dd class="posts">129 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																	by <a href="./memberlist.php?mode=viewprofile&amp;u=447253&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="username">FRA_99</a>																	<a href="./viewtopic.php?f=33&amp;p=231486&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p231486" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2025-01-06T08:20:17+00:00">06 Jan 2025, 08:20</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Law &amp; politics: copyright, piracy, open access, legal aspects" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=32">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Law &amp; politics: copyright, piracy, open access, legal aspects</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=32&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">Law &amp; politics: copyright, piracy, open access, legal aspects</a>
+																		
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>22</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">22 <dfn>Topics</dfn></dd>
+					<dd class="posts">46 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																	by <a href="./memberlist.php?mode=viewprofile&amp;u=158632&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="username">funnypenny</a>																	<a href="./viewtopic.php?f=32&amp;p=226324&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p226324" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2024-08-11T18:36:22+00:00">11 Aug 2024, 18:36</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Scientific journals and articles, magazines" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=9">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Scientific journals and articles, magazines</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=9&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">Scientific journals and articles, magazines</a>
+																		
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>47</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">47 <dfn>Topics</dfn></dd>
+					<dd class="posts">9835 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																	by <a href="./memberlist.php?mode=viewprofile&amp;u=206066&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="username">zibrovski</a>																	<a href="./viewtopic.php?f=9&amp;p=231915&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p231915" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2025-01-21T19:55:53+00:00">21 Jan 2025, 19:55</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Standards" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=21">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Standards</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=21&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">Standards</a>
+																		
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>16</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">16 <dfn>Topics</dfn></dd>
+					<dd class="posts">415 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																	by <a href="./memberlist.php?mode=viewprofile&amp;u=399145&amp;sid=92fbcc37e42c0c99bbb60a230520658a" style="color: #FF6600;" class="username-coloured">takistokos</a>																	<a href="./viewtopic.php?f=21&amp;p=231520&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p231520" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2025-01-07T18:55:47+00:00">07 Jan 2025, 18:55</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Fiction" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=22">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Fiction</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=22&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">Fiction</a>
+																		
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>19</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">19 <dfn>Topics</dfn></dd>
+					<dd class="posts">194 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																	by <a href="./memberlist.php?mode=viewprofile&amp;u=45351&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="username">haecceitas</a>																	<a href="./viewtopic.php?f=22&amp;p=229815&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p229815" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2024-11-14T07:30:15+00:00">14 Nov 2024, 07:30</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Comics" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=23">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Comics</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=23&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">Comics</a>
+																		
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>32</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">32 <dfn>Topics</dfn></dd>
+					<dd class="posts">316 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																	by <a href="./memberlist.php?mode=viewprofile&amp;u=117084&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="username">radaway_1</a>																	<a href="./viewtopic.php?f=23&amp;p=213925&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p213925" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2024-02-21T21:12:33+00:00">21 Feb 2024, 21:12</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+	
+	
+			
+					<li class="row">
+						<dl class="row-item forum_read">
+				<dt title="No unread posts">
+										<div class="list-inner">
+													<!--
+								<a class="feed-icon-forum" title="Feed - Free style" href="/app.php/feed?sid=92fbcc37e42c0c99bbb60a230520658a?f=6">
+									<i class="icon fa-rss-square fa-fw icon-orange" aria-hidden="true"></i><span class="sr-only">Feed - Free style</span>
+								</a>
+							-->
+																		<a href="./viewforum.php?f=6&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="forumtitle">Free style</a>
+						<br />A section for any talks with no registration required. Request an account activation here, if the e-mail doesn't arrive.												
+												<div class="responsive-show" style="display: none;">
+															Topics: <strong>123</strong>
+													</div>
+											</div>
+				</dt>
+									<dd class="topics">123 <dfn>Topics</dfn></dd>
+					<dd class="posts">4579 <dfn>Posts</dfn></dd>
+					<dd class="lastpost">
+						<span>
+																						<dfn>Last post</dfn>
+																										<a href="./viewtopic.php?f=6&amp;p=231917&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p231917" title="Re: Activation E-mail didn't arrive / Не пришло письмо активации" class="lastsubject">Re: Activation E-mail didn't …</a> <br />
+																	by <span class="username">Guest</span>																	<a href="./viewtopic.php?f=6&amp;p=231917&amp;sid=92fbcc37e42c0c99bbb60a230520658a#p231917" title="View the latest post">
+										<i class="icon fa-external-link-square fa-fw icon-lightgray icon-md" aria-hidden="true"></i><span class="sr-only">View the latest post</span>
+									</a>
+																<br /><time datetime="2025-01-21T20:49:27+00:00">21 Jan 2025, 20:49</time>
+													</span>
+					</dd>
+							</dl>
+					</li>
+			
+				</ul>
+
+			</div>
+		</div>
+		
+
+
+	<form method="post" action="./ucp.php?mode=login&amp;sid=92fbcc37e42c0c99bbb60a230520658a" class="headerspace">
+	<h3><a href="./ucp.php?mode=login&amp;sid=92fbcc37e42c0c99bbb60a230520658a">Login</a>&nbsp; &bull; &nbsp;<a href="./ucp.php?mode=register&amp;sid=92fbcc37e42c0c99bbb60a230520658a">Register</a></h3>
+		<fieldset class="quick-login">
+			<label for="username"><span>Username:</span> <input type="text" tabindex="1" name="username" id="username" size="10" class="inputbox" title="Username" /></label>
+			<label for="password"><span>Password:</span> <input type="password" tabindex="2" name="password" id="password" size="10" class="inputbox" title="Password" autocomplete="off" /></label>
+							<a href="./ucp.php?mode=sendpassword&amp;sid=92fbcc37e42c0c99bbb60a230520658a">I forgot my password</a>
+										<span class="responsive-hide">|</span> <label for="autologin">Remember me <input type="checkbox" tabindex="4" name="autologin" id="autologin" /></label>
+						<input type="submit" tabindex="5" name="login" value="Login" class="button2" />
+			<input type="hidden" name="redirect" value="./index.php?sid=92fbcc37e42c0c99bbb60a230520658a" />
+<input type="hidden" name="creation_time" value="1737498946" />
+<input type="hidden" name="form_token" value="45684276f0a2d6c5a53cc0bff96c9b11eb2f6def" />
+
+			
+		</fieldset>
+	</form>
+
+
+
+
+
+	<div class="stat-block statistics">
+		<h3>Statistics</h3>
+		<p>
+						Total posts <strong>178873</strong> &bull; Total topics <strong>11023</strong> &bull; Total members <strong>127064</strong> &bull; Our newest member <strong><a href="./memberlist.php?mode=viewprofile&amp;u=462990&amp;sid=92fbcc37e42c0c99bbb60a230520658a" style="color: #FF6600;" class="username-coloured">Topmindsky</a></strong>
+					</p>
+	</div>
+
+
+			</div>
+
+
+<div id="page-footer" class="page-footer" role="contentinfo">
+	<div class="navbar" role="navigation">
+	<div class="inner">
+
+	<ul id="nav-footer" class="nav-footer linklist" role="menubar">
+		<li class="breadcrumbs">
+									<span class="crumb"><a href="./index.php?sid=92fbcc37e42c0c99bbb60a230520658a" data-navbar-reference="index"><i class="icon fa-home fa-fw" aria-hidden="true"></i><span>Board index</span></a></span>					</li>
+		
+				<li class="rightside">All times are <span title="UTC">UTC</span></li>
+							<li class="rightside">
+				<a href="./ucp.php?mode=delete_cookies&amp;sid=92fbcc37e42c0c99bbb60a230520658a" data-ajax="true" data-refresh="true" role="menuitem">
+					<i class="icon fa-trash fa-fw" aria-hidden="true"></i><span>Delete cookies</span>
+				</a>
+			</li>
+																<li class="rightside" data-last-responsive="true">
+				<a href="./memberlist.php?mode=contactadmin&amp;sid=92fbcc37e42c0c99bbb60a230520658a" role="menuitem">
+					<i class="icon fa-envelope fa-fw" aria-hidden="true"></i><span>Contact us</span>
+				</a>
+			</li>
+			</ul>
+
+	</div>
+</div>
+
+	<div class="copyright">
+				<p class="footer-row">
+			<span class="footer-copyright">Powered by <a href="https://www.phpbb.com/">phpBB</a>&reg; Forum Software &copy; phpBB Limited</span>
+		</p>
+						<p class="footer-row" role="menu">
+			<a class="footer-link" href="./ucp.php?mode=privacy&amp;sid=92fbcc37e42c0c99bbb60a230520658a" title="Privacy" role="menuitem">
+				<span class="footer-link-text">Privacy</span>
+			</a>
+			|
+			<a class="footer-link" href="./ucp.php?mode=terms&amp;sid=92fbcc37e42c0c99bbb60a230520658a" title="Terms" role="menuitem">
+				<span class="footer-link-text">Terms</span>
+			</a>
+		</p>
+					</div>
+
+	<div id="darkenwrapper" class="darkenwrapper" data-ajax-error-title="AJAX error" data-ajax-error-text="Something went wrong when processing your request." data-ajax-error-text-abort="User aborted request." data-ajax-error-text-timeout="Your request timed out; please try again." data-ajax-error-text-parsererror="Something went wrong with the request and the server returned an invalid reply.">
+		<div id="darken" class="darken">&nbsp;</div>
+	</div>
+
+	<div id="phpbb_alert" class="phpbb_alert" data-l-err="Error" data-l-timeout-processing-req="Request timed out.">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<h3 class="alert_title">&nbsp;</h3><p class="alert_text"></p>
+	</div>
+	<div id="phpbb_confirm" class="phpbb_alert">
+		<a href="#" class="alert_close">
+			<i class="icon fa-times-circle fa-fw" aria-hidden="true"></i>
+		</a>
+		<div class="alert_text"></div>
+	</div>
+</div>
+
+</div>
+
+<div>
+	<a id="bottom" class="anchor" accesskey="z"></a>
+	</div>
+
+<script src="./assets/javascript/jquery.min.js?assets_version=6"></script>
+<script src="./assets/javascript/core.js?assets_version=6"></script>
+
+
+
+<script src="./styles/prosilver/template/forum_fn.js?assets_version=6"></script>
+<script src="./styles/prosilver/template/ajax.js?assets_version=6"></script>
+
+
+
+</body>
+</html>

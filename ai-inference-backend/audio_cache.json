@@ -1,0 +1,68 @@
+{
+    "{\"includeCitations\":false,\"outputType\":\"audio\",\"resources\":[{}],\"text\":\"Can you briefly talk about financial literacy and at exactly 30 seconds into podcast ask a pop quiz question about the covered topic\"}": {
+        "request_id": "722dd9a0-6ed6-4b06-8c13-ea46cbc576cd",
+        "status": 100,
+        "audioUrl": "https://autocontentapi.blob.core.windows.net/audios/39053cf0-aba0-4906-9940-4c5ff84bdccc_20250131113029.wav",
+        "audioTitle": "Financial Literacy Podcast"
+    },
+    "{\"includeCitations\":false,\"outputType\":\"audio\",\"resources\":[{}],\"text\":\"Can you briefly talk about financial literacy for 2 minutes and at exactly every 30 seconds of podcast ask a pop quiz question about the covered topic content\"}": {
+        "request_id": "4b99deda-b36d-4b93-a5df-fd9a2a4e84f2",
+        "status": 100,
+        "audioUrl": "https://autocontentapi.blob.core.windows.net/audios/d9d06214-52f1-4e58-af1b-76637369cf63_20250131114117.wav",
+        "audioTitle": "Financial Literacy Podcast Quiz"
+    },
+    "{\"includeCitations\":false,\"outputType\":\"study_guide\",\"resources\":[{}],\"text\":\"Can you briefly talk about financial literacy and at exactly 30 seconds into podcast ask a pop quiz question about the covered topic\"}": {
+        "request_id": "ff41902f-fe61-4070-81b5-2655d68ae08b",
+        "status": 10,
+        "audioUrl": null,
+        "audioTitle": null
+    },
+    "{\"includeCitations\":false,\"outputType\":\"audio\",\"resources\":[{}],\"text\":\"Do it\"}": {
+        "request_id": "35add527-043b-48ed-935a-f5588f3b5718",
+        "status": 0,
+        "audioUrl": null,
+        "audioTitle": null
+    },
+    "{\"includeCitations\":false,\"outputType\":\"audio\",\"resources\":[{},{}],\"text\":\"\"}": {
+        "request_id": "b0fb4be0-e2d6-4df0-9922-6ef391e5f947",
+        "status": 0,
+        "audioUrl": null,
+        "audioTitle": null
+    },
+    "{\"includeCitations\":false,\"outputType\":\"study_guide\",\"resources\":[{}],\"text\":\"You are an educational podcast for students that simplifies complex concepts through clear explanations, relatable examples, and interactive elements. Exactly every 2 minutes say POP QUIZ TIME, and ask quiz questions on recent topics, giving a 20-30-second pause for student reflection, you can spend these 20-30 seconds just chatting about something. The tone should be engaging and student-friendly, ensuring seamless integration of quizzes to reinforce learning without disrupting the flow.\"}": {
+        "request_id": "3d345b97-4595-460c-b1ee-bc0184aed3e5",
+        "status": 0,
+        "audioUrl": null,
+        "audioTitle": null
+    },
+    "{\"includeCitations\":false,\"outputType\":\"audio\",\"resources\":[{}],\"text\":\"You are an educational podcast for students that simplifies complex concepts through clear explanations, relatable examples, and interactive elements. Exactly every 2 minutes say POP QUIZ TIME, and ask quiz questions on recent topics, giving a 20-30-second pause for student reflection, you can spend these 20-30 seconds just chatting about something. The tone should be engaging and student-friendly, ensuring seamless integration of quizzes to reinforce learning without disrupting the flow.\"}": {
+        "request_id": "672d6181-0eff-4492-b29b-a3819f007412",
+        "status": 0,
+        "audioUrl": null,
+        "audioTitle": null
+    },
+    "{\"includeCitations\":false,\"outputType\":\"study_guide\",\"resources\":[{}],\"text\":\"Create a study guide with a list of 5 quiz questions and answer keys based on the educational content.\"}": {
+        "request_id": "a311c83c-3d07-4c79-a675-15071aed379a",
+        "status": 0,
+        "audioUrl": null,
+        "audioTitle": null
+    },
+    "{\"includeCitations\":false,\"outputType\":\"audio\",\"resources\":[{},{}],\"text\":\"You are an educational podcast for students that simplifies complex concepts through clear explanations, relatable examples, and interactive elements. Exactly every 2 minutes say POP QUIZ TIME, and ask quiz questions on recent topics, giving a 20-30-second pause for student reflection, you can spend these 20-30 seconds just chatting about something. The tone should be engaging and student-friendly, ensuring seamless integration of quizzes to reinforce learning without disrupting the flow.\"}": {
+        "request_id": "29cbd2e5-9e44-4701-a75f-61fc69bb972e",
+        "status": 0,
+        "audioUrl": null,
+        "audioTitle": null
+    },
+    "{\"includeCitations\":false,\"outputType\":\"audio\",\"resources\":[{}],\"text\":\"yo\"}": {
+        "request_id": "cc359c8c-02b0-4fda-8747-c0083876b833",
+        "status": 0,
+        "audioUrl": null,
+        "audioTitle": null
+    },
+    "{\"includeCitations\":false,\"outputType\":\"audio\",\"resources\":[{}],\"text\":\"Yo Talhah it's your birthday\"}": {
+        "request_id": "6c6404f9-49f2-4b30-80eb-76b8428a0de2",
+        "status": 0,
+        "audioUrl": null,
+        "audioTitle": null
+    }
+}
