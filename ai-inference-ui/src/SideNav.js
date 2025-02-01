@@ -4,6 +4,7 @@ import HomeIcon from '@mui/icons-material/Home';
 import CreateIcon from '@mui/icons-material/Create';
 import LibraryMusicIcon from '@mui/icons-material/LibraryMusic';
 import MenuBookIcon from '@mui/icons-material/MenuBook';
+import BroadcastIcon from '@mui/icons-material/Radio'; // Import a suitable icon for broadcasting
 
 const drawerWidth = 240;
 
@@ -13,6 +14,7 @@ const SideNav = ({ onSelect }) => {
     { text: 'Generate with AI', icon: <CreateIcon />, onClick: () => onSelect('generate') },
     { text: 'Your Podcasts', icon: <LibraryMusicIcon />, onClick: () => onSelect('podcasts') },
     { text: 'Your Study Guides', icon: <MenuBookIcon />, onClick: () => onSelect('study_guides') },
+    { text: 'Broadcaster', icon: <BroadcastIcon />, onClick: () => onSelect('broadcaster') }, // Add Broadcaster menu item
   ];
 
   return (

@@ -3,6 +3,9 @@ import { CssBaseline, Box, Typography, Toolbar } from '@mui/material';
 import RequestForm from './RequestForm';
 import ProgressPage from './ProgressPage';
 import SideNav from './SideNav';
+import PodcastsPage from './PodcastsPage';
+import BroadcasterPage from './BroadcasterPage'; // Import BroadcasterPage
+import StudyGuidesPage from './StudyGuidesPage'; // Import StudyGuidesPage
 import axios from 'axios';
 
 const App = () => {
@@ -35,9 +38,11 @@ const App = () => {
       case 'generate':
         return <RequestForm onSubmit={handleFormSubmit} />;
       case 'podcasts':
-        return <Typography variant="h4">Your Podcasts</Typography>;
+        return <PodcastsPage />;
       case 'study_guides':
-        return <Typography variant="h4">Your Study Guides</Typography>;
+        return <StudyGuidesPage />; // Add StudyGuidesPage
+      case 'broadcaster':
+        return <BroadcasterPage />; // Add BroadcasterPage
       default:
         return <Typography variant="h4">Welcome to AI Inference</Typography>;
     }

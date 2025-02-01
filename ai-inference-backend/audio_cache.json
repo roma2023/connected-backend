@@ -64,5 +64,29 @@
         "status": 0,
         "audioUrl": null,
         "audioTitle": null
+    },
+    "{\"includeCitations\":false,\"outputType\":\"audio\",\"resources\":[{}],\"text\":\"yoh make a rap please\"}": {
+        "request_id": "eda1bc94-b0e5-4825-b516-526d72165550",
+        "status": 0,
+        "audioUrl": null,
+        "audioTitle": null
+    },
+    "{\"includeCitations\":false,\"outputType\":\"audio\",\"resources\":[{}],\"text\":\"yoh\"}": {
+        "request_id": "4510cf71-ace6-46ab-a2fc-9109aed9812c",
+        "status": 0,
+        "audioUrl": null,
+        "audioTitle": null
+    },
+    "{\"includeCitations\":false,\"outputType\":\"audio\",\"resources\":[{}],\"text\":\"I want a short audio with these exact words, \\\"This is a demo audio and a quiz will show right about any second from now, the quiz has been broadcasted over the air! Imagine, its like a one way internet.\\\"\"}": {
+        "request_id": "c03bf199-71a6-4435-8647-f2ba20117534",
+        "status": 0,
+        "audioUrl": null,
+        "audioTitle": null
+    },
+    "{\"includeCitations\":false,\"outputType\":\"audio\",\"resources\":[{}],\"text\":\"I want a short audio with these exact words: This is a demo audio and a quiz will show right about any second from now, the quiz has been broadcasted over the air! Imagine, its like a one way internet.\"}": {
+        "request_id": "fd47d946-ab74-4a6b-9129-30a63bee2891",
+        "status": 0,
+        "audioUrl": null,
+        "audioTitle": null
     }
 }
